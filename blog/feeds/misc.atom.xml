@@ -62,11 +62,20 @@
 &lt;p&gt;在這裡, 學 C/C++ 是為了編寫 Arduino 控制程式, 以及結合 Qt5 建立各種能快速進行工程分析的程式庫, 學習 Python 是為了快速完成 C/C++ 無法迅速完成的分析、模擬與運算, 也能透過 PyQt5 建立視窗程式, 或者呼叫 Flask 建立能在網際環境中執行的協同設計套件. 學習 Lua 是為了能在 V-rep 中使用, 至於 Javascript, 已經無所不在, 尤其在網際成是開發過程, 更是重要, 有其學習的必要性.&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week1</title><link href="https://mdecadp2018.github.io/site-40623201/blog/2018-Fall-1.html" rel="alternate"></link><published>2018-09-10T12:00:00+08:00</published><updated>2018-09-10T12:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623201/blog/2018-Fall-1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;hr&gt;
-&lt;p&gt;課程內容：
-登入github帳號後，建立一個新的40623201.github.io的倉儲&lt;/p&gt;
-&lt;p&gt;步驟：
-1.登入github帳號後，在右上角有一個+的符號，點選New repository建立一個新的倉儲。&lt;/p&gt;
-&lt;p&gt;2.點選New repository後，會出現一個表單，在Repository name的地方輸入學號.github.io，設定完成後即可按Create repository完成建立。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623201/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623201/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
+&lt;p&gt;課程內容：&lt;/p&gt;
+&lt;p&gt;登入github帳號後，建立一個新的40623201.github.io的倉儲並可在近端的動態網頁去做修改。&lt;/p&gt;
+&lt;p&gt;步驟：&lt;/p&gt;
+&lt;p&gt;1.先將2018fall的倉儲clone下來（git glone https://github.com/mdecourse/2018fall）&lt;/p&gt;
+&lt;p&gt;2.登入github帳號後，在右上角有一個+的符號，點選New repository建立一個新的倉儲。&lt;/p&gt;
+&lt;p&gt;3.點選New repository後，會出現一個表單，在Repository name的地方輸入學號.github.io，設定完成後即可按Create repository完成建立。&lt;/p&gt;
+&lt;p&gt;4.建立完40623201.github.io的倉儲後，將倉儲clone下來（git clone https://github.com/40623201/40623201.github.io），就能在近端改版。&lt;/p&gt;
+&lt;p&gt;5.再將2018fall中除了.git的檔案之外的資料全部複製到40623201.github.io進行改版。&lt;/p&gt;
+&lt;p&gt;6.利用git add .將檔案新增上去，再利用git commit -m"initial add"提交之後，再git push將東西推上去。&lt;/p&gt;
+&lt;p&gt;7.利用git config進行身分綁定（git config --global user.email "40623201@gm.nfu.edu.tw"及git config --global user.name "40623201"）&lt;/p&gt;
+&lt;p&gt;8.因為剛剛還沒綁定身分，提交沒有成功，所以還要再重新提交一次git commit -m"initial add"提交之後，再git push將東西推上去。&lt;/p&gt;
+&lt;p&gt;9.利用近端http-server.py去Go它之後，會在近端網頁（https://localhost:8443）看到改版之後的東西。&lt;/p&gt;
+&lt;p&gt;10.利用cd 4063201.github.io進到對應的倉儲後，用python wsgi.py的指令就可看到近端的動態網頁能進行修改。&lt;/p&gt;
+&lt;p&gt;11.修改後按網頁的generate_pages就能轉為靜態網頁了，再重複第6個步驟將東西推送上去。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623201/blog/2018-Fall-Project-Blog.html" rel="alternate"></link><published>2018-09-10T11:00:00+08:00</published><updated>2018-09-10T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-10:/site-40623201/blog/2018-Fall-Project-Blog.html</id><summary type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2018 Fall 開始將網際內容管理、投影片與網誌進行整合.&lt;/p&gt;
 
 
