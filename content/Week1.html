@@ -61,5 +61,23 @@ $(function(){
 
 </ul>
 </confmenu></header>
-<div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='簡介.html'>簡介</a><ul><li><a href='CMSimfly 網站.html'>CMSimfly 網站</a><ul><li><a href='測試頁面.html'>測試頁面</a></li></ul><li><a href='reveal 投影片.html'>reveal 投影片</a><li><a href='pelican 網誌.html'>pelican 網誌</a></li></ul><li><a href='組員操作影片.html'>組員操作影片</a><ul><li><a href='Week1.html'>Week1</a><li><a href='Week2.html'>Week2</a><li><a href='Week3.html'>Week3</a><li><a href='Week4.html'>Week4</a></li></ul><li><a href='Python 手冊.html'>Python 手冊</a><li><a href='OnShape 手冊.html'>OnShape 手冊</a><li><a href='Fusion 360.html'>Fusion 360</a></li></ul></nav><section>組員操作影片 << <a href='組員操作影片.html'>Previous</a> <a href='Week2.html'>Next</a> >> Week2<br /><h1>Week1</h1>
+<div class='container'><nav><ul id='css3menu1' class='topmenu'><li><a href='簡介.html'>簡介</a><ul><li><a href='CMSimfly 網站.html'>CMSimfly 網站</a><ul><li><a href='測試頁面.html'>測試頁面</a></li></ul><li><a href='reveal 投影片.html'>reveal 投影片</a><li><a href='pelican 網誌.html'>pelican 網誌</a></li></ul><li><a href='組員操作影片.html'>組員操作影片</a><ul><li><a href='Week1.html'>Week1</a><li><a href='Week2.html'>Week2</a><li><a href='Week3.html'>Week3</a><li><a href='Week4.html'>Week4</a><li><a href='Week5.html'>Week5</a><li><a href='Week6.html'>Week6</a><li><a href='Week7.html'>Week7</a></li></ul><li><a href='Python 手冊.html'>Python 手冊</a><li><a href='OnShape 手冊.html'>OnShape 手冊</a><li><a href='Fusion 360.html'>Fusion 360</a></li></ul></nav><section>組員操作影片 << <a href='組員操作影片.html'>Previous</a> <a href='Week2.html'>Next</a> >> Week2<br /><h1>Week1</h1>
+<p>課程內容：</p>
+<p>登入github帳號後，建立一個新的40623201.github.io的倉儲並可在近端的動態網頁去做修改。</p>
+<p>操作步驟：</p>
+<p>1.先將2018fall的倉儲clone下來。</p>
+<p>git glone https://github.com/mdecourse/2018fall</p>
+<p>2.登入github帳號後，在右上角有一個+的符號，點選New repository建立一個新的倉儲。</p>
+<p>3.點選New repository後，會出現一個表單，在Repository name的地方輸入學號.github.io，設定完成後即可按Create repository完成建立。</p>
+<p>4.將建立完的倉儲clone下來，就能在近端改版。</p>
+<p>git clone https://github.com/40623201/40623201.github.io</p>
+<p>5.再將2018fall中除了.git的檔案之外的資料全部複製到40623201.github.io進行改版。</p>
+<p>6.利用git add .將檔案新增上去，再利用git commit -m"initial add"提交之後，再git push將東西推上去。</p>
+<p>7.利用git config進行身分綁定。</p>
+<p>git config --global user.email "40623201@gm.nfu.edu.tw"</p>
+<p>git config --global user.name "40623201"</p>
+<p>8.剛剛沒綁定身分提交失敗，所以要再重新提交git commit -m"initial add"，再git push將東西推上去。</p>
+<p>9.利用http-server.py去Go它之後會在近端網頁（https://localhost:8443）看到改版之後的東西。</p>
+<p>10.利用cd 4063201.github.io進到對應的倉儲後，用python wsgi.py的指令就可看到近端的動態網頁能進行修改。</p>
+<p>11.修改後按網頁的generate_pages就能轉為靜態網頁了，再重複第6個步驟將東西推送上去。</p>
 <br />組員操作影片 << <a href='組員操作影片.html'>Previous</a> <a href='Week2.html'>Next</a> >> Week2</section></div></body></html>
