@@ -27,7 +27,8 @@
 &lt;p&gt;步驟：&lt;/p&gt;
 &lt;p&gt;1.利用python wsgi.py的指令在近端動態網頁進行修改。&lt;/p&gt;
 &lt;p&gt;2.用Leo對投影片進行修改，更改為自己的學號與網誌連結。&lt;/p&gt;
-&lt;p&gt;3.用Leo對網誌進行修改。&lt;/p&gt;
+&lt;p&gt;3.用Leo對網誌進行修改，更改網誌遠端連結及討論區。&lt;/p&gt;
+&lt;p&gt;4.修改後，查看近端是否有問題，沒問題即可推到遠端。&lt;/p&gt;
 &lt;h2&gt;課程筆記：&lt;/h2&gt;
 &lt;p&gt;1.投影片語法：&lt;/p&gt;
 &lt;p&gt;(1)#—大標題。&lt;/p&gt;
@@ -38,7 +39,28 @@
 &lt;p&gt;(2) s 顯示投影片筆記 (show)&lt;/p&gt;
 &lt;p&gt;(3) o 切換單張或全域檢視 (overview)&lt;/p&gt;
 &lt;p&gt;(4) b 或 . 切換螢幕黑屏 (black)&lt;/p&gt;
-&lt;p&gt;(5)  Esc 退出全螢幕或全域檢視 (Escape)&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week3</title><link href="https://mdecadp2018.github.io/site-40623201/blog/2018-Fall-3.html" rel="alternate"></link><published>2018-09-24T00:00:00+08:00</published><updated>2018-09-24T00:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623201/blog/2018-Fall-3.html</id><summary type="html">&lt;p&gt;中秋節快樂！&lt;/p&gt;
+&lt;p&gt;(5)  Esc 退出全螢幕或全域檢視 (Escape)&lt;/p&gt;
+&lt;p&gt;3.onshape 指令：&lt;/p&gt;
+&lt;p&gt;f—東西如果不再畫面時，按 f 會回到畫面。&lt;/p&gt;
+&lt;p&gt;4.onshape單字：&lt;/p&gt;
+&lt;p&gt;sketch—草圖&lt;/p&gt;
+&lt;p&gt;extrude—擠出&lt;/p&gt;
+&lt;p&gt;revole—旋轉、圍繞&lt;/p&gt;
+&lt;p&gt;sweep—掃略&lt;/p&gt;
+&lt;p&gt;loft—緊伸&lt;/p&gt;
+&lt;p&gt;solid—實體&lt;/p&gt;
+&lt;p&gt;surface—表面&lt;/p&gt;
+&lt;p&gt;symmetric—對稱擠出&lt;/p&gt;
+&lt;p&gt;rib—肋&lt;/p&gt;
+&lt;h2&gt;操作影片：&lt;/h2&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=lcjl8VVQvIo&amp;amp;t=101s"&gt;Onshape Week1-1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=PL1Kp6vZJfk&amp;amp;t=152s"&gt;Onshape Week1-2&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=LyAdxr9W5GE"&gt;Onshape Week1-3&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=Ior83nDxCCY&amp;amp;t=3s"&gt;Onshape Week1-4&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=h4lc2aes4XA&amp;amp;t=62s"&gt;Onshape Week1-5&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=rQKIj8KK7mY&amp;amp;t=38s"&gt;Onshape Week1-6&lt;/a&gt;&lt;/p&gt;
+&lt;h2&gt;心得：&lt;/h2&gt;
+&lt;p&gt;第一次使用 onshape 發現以前沒學過3D繪圖軟體很吃虧，對 3D的概念很差很多東西都是全新的，很多東西要約束、要選平面、沒有封閉就不能擠出，在畫的過程遇到很多問題，花費很多時間去理解，還問了許多製圖科同學覺得很簡單的問題，還好在經過練習後，都能成功將作業畫出來，並的到一些基本觀念。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>2018 Fall Week3</title><link href="https://mdecadp2018.github.io/site-40623201/blog/2018-Fall-3.html" rel="alternate"></link><published>2018-09-24T00:00:00+08:00</published><updated>2018-09-24T00:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-09-24:/site-40623201/blog/2018-Fall-3.html</id><summary type="html">&lt;p&gt;中秋節快樂！&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;中秋節快樂！&lt;/p&gt;
 
 
