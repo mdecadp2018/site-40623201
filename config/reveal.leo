@@ -24,6 +24,30 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20181105080417.1" a="E"><vh>week1投影片</vh>
+<v t="leo.20181105080417.2"><vh>week1投影片內容</vh></v>
+</v>
+<v t="leo.20181105080406.1" a="E"><vh>week2投影片</vh>
+<v t="leo.20181105080406.2"><vh>week2投影片內容</vh></v>
+</v>
+<v t="leo.20181105080333.1" a="E"><vh>week3投影片</vh>
+<v t="leo.20181105080333.2"><vh>week3投影片內容</vh></v>
+</v>
+<v t="leo.20181105080539.1" a="E"><vh>week4投影片</vh>
+<v t="leo.20181105080539.2"><vh>week4投影片內容</vh></v>
+</v>
+<v t="leo.20181105080543.1" a="E"><vh>week5投影片</vh>
+<v t="leo.20181105080543.2"><vh>week5投影片內容</vh></v>
+</v>
+<v t="leo.20181105080547.1" a="E"><vh>week6投影片</vh>
+<v t="leo.20181105080547.2"><vh>week6投影片內容</vh></v>
+</v>
+<v t="leo.20181105080551.1" a="E"><vh>week7投影片</vh>
+<v t="leo.20181105080551.2"><vh>week7投影片內容</vh></v>
+</v>
+<v t="leo.20181105080626.1" a="E"><vh>week8投影片</vh>
+<v t="leo.20181105080626.2"><vh>week8投影片內容</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -325,6 +349,125 @@ make.start()
 
 
 						
+</t>
+<t tx="leo.20181105080333.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181105080333.2"># Week3
+
+* 中秋節放假</t>
+<t tx="leo.20181105080406.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181105080406.2"># Week2
+
+* 學習如何用 ShareX 取圖
+* 領取期中作業倉儲做管理
+* 建立Onshape 帳號
+
+
+</t>
+<t tx="leo.20181105080417.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181105080417.2"># Week1
+
+
+* 建立40623201.github.io的倉儲並在近端動態網頁做修改
+* 上課必須要帶隨身碟、筆記本、耳機。
+* 大學就像一個自助餐廳，可以自己選擇想吃的東西，也能選擇想學什麼東西；每個餐點（課程）只要是對營養有幫助的，都要吃下去。
+* What is onshape?
+* why onshape?
+
+
+
+</t>
+<t tx="leo.20181105080539.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181105080539.2"># Week4
+
+* 期中倉儲、網誌、投影片管理方法
+* 學習如何使用Onshape繪製簡單圖形
+* OnshapeWeek1</t>
+<t tx="leo.20181105080543.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181105080543.2"># Week5
+
+* Pyslvs介紹
+* 熟悉Onshape功能
+* OnshapeWeek2
+</t>
+<t tx="leo.20181105080547.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181105080547.2"># Week6
+
+*做為一個工程師，不僅要學會找答案；還要學會問問題，要竭盡所能地找答案後，才有資格問問題。
+
+
+</t>
+<t tx="leo.20181105080551.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181105080551.2">#Week7 
+
+</t>
+<t tx="leo.20181105080626.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181105080626.2"># Week8
+
+
 </t>
 </tnodes>
 </leo_file>
