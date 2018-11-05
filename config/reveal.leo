@@ -361,7 +361,9 @@ make.start()
 </t>
 <t tx="leo.20181105080333.2"># Week3
 
-* 中秋節放假</t>
+* 中秋節放假
+
+</t>
 <t tx="leo.20181105080406.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -413,7 +415,9 @@ make.start()
 
 * 期中倉儲、網誌、投影片管理方法
 * 學習如何使用Onshape繪製簡單圖形
-* OnshapeWeek1</t>
+* OnshapeWeek1
+
+</t>
 <t tx="leo.20181105080543.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -453,7 +457,7 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181105080551.2">#Week7 
+<t tx="leo.20181105080551.2"># Week7 
 
 </t>
 <t tx="leo.20181105080626.1">&lt;section data-markdown&gt;
