@@ -48,6 +48,9 @@
 <v t="leo.20181105080626.1" a="E"><vh>week8投影片</vh>
 <v t="leo.20181105080626.2"><vh>week8投影片內容</vh></v>
 </v>
+<v t="leo.20181109003534.1" a="E"><vh>week9投影片</vh>
+<v t="leo.20181109003534.2"><vh>week9投影片內容</vh></v>
+</v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -485,5 +488,20 @@ make.start()
 * 如何從零到有東西？
 
 </t>
+<t tx="leo.20181109003534.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20181109003534.2"># Week9
+
+* 打自評成績
+* 說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
+* 期末分組倉儲clone下來（git clone https://github.com/mdecadp2018/finalproject-bg1）
+* 各組討論期末分組專題題目</t>
 </tnodes>
 </leo_file>
