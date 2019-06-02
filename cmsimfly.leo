@@ -53,14 +53,14 @@
 <v t="leo.20180625155248.1"><vh>@edit pybean.py</vh></v>
 <v t="leo.20180625155728.1"><vh>@edit schema.sql</vh></v>
 <v t="amd.20160718130611.1"><vh>@edit .gitignore</vh></v>
-<v t="amd.20160717222221.1"><vh>@path static</vh>
+<v t="amd.20160717222221.1" a="E"><vh>@path static</vh>
 <v t="leo.20180718091411.1"><vh>@edit cmsimply.css</vh></v>
 <v t="amd.20160717222242.1"><vh>@edit axuploader.js</vh></v>
 <v t="amd.20160718125932.1"><vh>@edit viewstl.html</vh></v>
 <v t="amd.20160718125943.1"><vh>@edit stlviewer.js</vh></v>
 <v t="amd.20160718212341.1"><vh>@edit jsc3d.js</vh></v>
 </v>
-<v t="amd.20160714230058.1"><vh>@clean wsgi.py</vh>
+<v t="amd.20160714230058.1" a="E"><vh>@clean wsgi.py</vh>
 <v t="amd.20160714230122.1"><vh>wsgi declarations</vh></v>
 </v>
 <v t="amd.20160714230833.1" a="E"><vh>編輯 flaskapp.py</vh>
@@ -839,7 +839,7 @@ def set_admin_css():
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;2018 Fall 分組網站&lt;/title&gt; \
+&lt;title&gt;2019 個人網站&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="/static/cmsimply.css"&gt;
 ''' + syntaxhighlight()
 
@@ -1057,7 +1057,7 @@ a.xhfbfile:hover{
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;2018 Fall 分組網站&lt;/title&gt; \
+&lt;title&gt;2019 個人網站&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="/static/cmsimply.css"&gt;
 ''' + syntaxhighlight()
 
@@ -2382,7 +2382,7 @@ def get_page2(heading, head, edit):
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;2018 Fall 分組網站&lt;/title&gt; \
+&lt;title&gt;2019 個人網站&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="./../static/cmsimply.css"&gt;
 ''' + syntaxhighlight2()
 
