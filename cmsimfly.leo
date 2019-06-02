@@ -9,15 +9,15 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20160714225308.1"><vh>@settings</vh>
+<v t="amd.20160714225308.1" a="E"><vh>@settings</vh>
 <v t="amd.20160714225308.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20160714225308.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180702145534.1"><vh>wsgi start/stop</vh>
+<v t="leo.20180702145534.1" a="E"><vh>wsgi start/stop</vh>
 <v t="leo.20180702142719.1"><vh>@button start wsgi</vh></v>
 <v t="leo.20180702142849.1"><vh>@button stop wsgi</vh></v>
 </v>
-<v t="leo.20180702145555.1"><vh>http start/stop</vh>
+<v t="leo.20180702145555.1" a="E"><vh>http start/stop</vh>
 <v t="leo.20180702145442.1"><vh>@button start http.server</vh></v>
 <v t="leo.20180702145458.1"><vh>@button stop http.server</vh></v>
 </v>
