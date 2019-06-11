@@ -24,37 +24,31 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20181105080417.1" a="E"><vh>week1投影片</vh>
-<v t="leo.20181105080417.2"><vh>week1投影片內容</vh></v>
+<v t="leo.20181105080417.1" a="E"><vh>week10投影片</vh>
+<v t="leo.20181105080417.2"><vh>week10投影片內容</vh></v>
 </v>
-<v t="leo.20181105080406.1" a="E"><vh>week2投影片</vh>
-<v t="leo.20181105080406.2"><vh>week2投影片內容</vh></v>
+<v t="leo.20181105080406.1" a="E"><vh>week12投影片</vh>
+<v t="leo.20181105080406.2"><vh>week12投影片內容</vh></v>
 </v>
-<v t="leo.20181105080333.1" a="E"><vh>week3投影片</vh>
-<v t="leo.20181105080333.2"><vh>week3投影片內容</vh></v>
+<v t="leo.20181105080333.1" a="E"><vh>week13投影片</vh>
+<v t="leo.20181105080333.2"><vh>week13投影片內容</vh></v>
 </v>
-<v t="leo.20181105080539.1" a="E"><vh>week4投影片</vh>
-<v t="leo.20181105080539.2"><vh>week4投影片內容</vh></v>
+<v t="leo.20181105080539.1" a="E"><vh>week14投影片</vh>
+<v t="leo.20181105080539.2"><vh>week14投影片內容</vh></v>
 </v>
-<v t="leo.20181105080543.1" a="E"><vh>week5投影片</vh>
-<v t="leo.20181105080543.2"><vh>week5投影片內容</vh></v>
+<v t="leo.20181105080543.1" a="E"><vh>week15投影片</vh>
+<v t="leo.20181105080543.2"><vh>week15投影片內容</vh></v>
 </v>
-<v t="leo.20181105080547.1" a="E"><vh>week6投影片</vh>
-<v t="leo.20181105080547.2"><vh>week6投影片內容</vh></v>
+<v t="leo.20181105080547.1" a="E"><vh>week16投影片</vh>
+<v t="leo.20181105080547.2"><vh>week16投影片內容</vh></v>
 </v>
-<v t="leo.20181105080551.1" a="E"><vh>week7投影片</vh>
-<v t="leo.20181105080551.2"><vh>week7投影片內容</vh></v>
-</v>
-<v t="leo.20181105080626.1" a="E"><vh>week8投影片</vh>
-<v t="leo.20181105080626.2"><vh>week8投影片內容</vh></v>
-</v>
-<v t="leo.20181109003534.1" a="E"><vh>week9投影片</vh>
-<v t="leo.20181109003534.2"><vh>week9投影片內容</vh></v>
+<v t="leo.20181105080551.1" a="E"><vh>week17投影片</vh>
+<v t="leo.20181105080551.2"><vh>week17投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
+<v t="leo.20180827201621.13" a="E"><vh>各式內容引用範例</vh>
 <v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
 </v>
@@ -151,15 +145,17 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
-
+<t tx="leo.20180827201621.10">## 2019 協同產品設計實習 
+## 40623201個人簡報
 ### 虎科大機械設計工程系
 
 &lt;small&gt;
 Created by [40623201](https://mdecadp2018.github.io/site-40623201/blog)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[個人倉儲](https://github.com/mdecadp2018/site-40623201)
+
+[分組網站](https://mdecadp2018.github.io/site-40623201/content/index.html)
 
 
 </t>
@@ -362,9 +358,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181105080333.2"># Week3
+<t tx="leo.20181105080333.2"># Week13
 
-* 中秋節放假
+* 整理 [pull request 步驟](https://mdecadp2018.github.io/site-40623201/content/Pull%20request.html)
+
+* 使用Pandoc製作專案報告書
 
 </t>
 <t tx="leo.20181105080406.1">&lt;section data-markdown&gt;
@@ -376,11 +374,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181105080406.2"># Week2
+<t tx="leo.20181105080406.2"># Week12
 
-* 學習如何用 ShareX 取圖
-* 領取期中作業倉儲做管理
-* 建立Onshape 帳號
+* 整理 [pull request 步驟](https://mdecadp2018.github.io/site-40623201/content/Pull%20request.html)
+
 
 
 </t>
@@ -393,14 +390,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181105080417.2"># Week1
+<t tx="leo.20181105080417.2"># Week10-Week11
 
-
-* 建立40623201.github.io的倉儲並在近端動態網頁做修改
-* 上課必須要帶隨身碟、筆記本、耳機。
-* 大學就像一個自助餐廳，可以自己選擇想吃的東西，也能選擇想學什麼東西；每個餐點（課程）只要是對營養有幫助的，都要吃下去。
-* What is onshape?
-* why onshape?
+* Onshape 繪製實習任務三
+* 進行組員分工
+* 修改網站內容
 
 
 
@@ -414,11 +408,12 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181105080539.2"># Week4
+<t tx="leo.20181105080539.2"># Week14
 
-* 期中倉儲、網誌、投影片管理方法
-* 學習如何使用Onshape繪製簡單圖形
-* OnshapeWeek1
+* 使用Pandoc製作期末專案報告書並錄製影片
+
+[Pandoc製作專案報告書影片](https://www.youtube.com/watch?v=vS8FvkiCBTI)
+
 
 </t>
 <t tx="leo.20181105080543.1">&lt;section data-markdown&gt;
@@ -430,11 +425,18 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181105080543.2"># Week5
+<t tx="leo.20181105080543.2"># Week15
 
-* Pyslvs介紹
-* 熟悉Onshape功能
-* OnshapeWeek2
+* 使用Pandoc製作專案報告書
+
+* 整理個人倉儲及網站
+
+* 錄製pull request操作步驟
+
+[pull request操作步驟1影片](https://youtu.be/xMYS-5a6ZYA)
+
+[pull request操作步驟2影片](https://youtu.be/wD2BJAw-SIM)
+
 </t>
 <t tx="leo.20181105080547.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -445,13 +447,11 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181105080547.2"># Week6
+<t tx="leo.20181105080547.2"># Week16
 
-* 更新 lab-booking-cdlab 倉儲
-* 說明管理內容流程
-* 升級最新的 CMSimfly 倉儲中的 flaskapp.py
-* 做為一個工程師，不僅要學會找答案；還要學會問問題，要竭盡所能地找答案後，才有資格問問題。
-* 在推遠端時git commit -m"名稱"非常重要，須依照做了哪些東西來命名，讓其他協同者清楚知道你做了什麼。
+* 使用Pandoc製作專案報告書
+* 整理執行規劃
+* 進行送球機構模擬
 
 
 </t>
@@ -464,44 +464,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181105080551.2"># Week7 
+<t tx="leo.20181105080551.2"># Week17 
 
-* Virtualbox 安裝 Ubuntu 18.04.1 伺服器自行建立Fossil SCM 
-* 使用 CMSimfly 過程碰到無法正確解讀 config/content.htm 時，先更新程式碼或回報問題的流程
-* 當近端網站出現問題時，可能是版本不是最新的，或者是content不符合程式設定的內容
-
+* 期末報告
 </t>
-<t tx="leo.20181105080626.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181105080626.2"># Week8
-
-* 了解機電資整合設計專案流程所需的相關套件運用與技術
-* 何謂雲端？
-* 為何要機電整合？
-* 如何從零到有東西？
-
-</t>
-<t tx="leo.20181109003534.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20181109003534.2"># Week9
-
-* 打自評成績
-* 說明如何利用 Github Classroom 進行期末分組專題倉儲的設定
-* 期末分組倉儲clone下來（git clone https://github.com/mdecadp2018/finalproject-bg1）
-* 各組討論期末分組專題題目</t>
 </tnodes>
 </leo_file>
