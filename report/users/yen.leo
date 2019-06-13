@@ -595,6 +595,22 @@ Table: 組員分工 {#tbl:工作分配表}
 </t>
 <t tx="leo.20190609142209.2">系統功能展示
 ---
+[human and human]
+
+[human and human]:https://youtu.be/6i2-7pPJ3TY
+
+[human and computer]
+
+[human and computer]:https://youtu.be/dxwSwDCcZsE
+
+[computer and computer]
+
+[computer and computer]:https://youtu.be/oaTUscd1zMk
+
+[送球機構]
+
+[送球機構]:https://youtu.be/MVsXT_XyWO8
+
 
 
 
@@ -801,6 +817,11 @@ sudo apt-get install fonts-arphic-ukai</t>
 @others
 </t>
 <t tx="yen.20170429214838.3">本專題為協同產品設計的簡單範例，運用我們所上過的工具，透過分組的方式，來完成一個可程式控制的機構，我們需要在這過程中解決任何的衝突發生，以及更精進我們的專業知識。
+
+
+![手足球系統][]
+
+[手足球系統]: ../markdown/images/motivation/手足球系統.JPG {#fig:手足球系統}
 
 </t>
 <t tx="yen.20170429214845.1"></t>
