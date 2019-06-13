@@ -8,37 +8,37 @@ V-rep 動態模擬-手足球設計與模擬
 
 物件設定步驟：
 
-1. 先從 file -> import -> mesh  (選擇要放入的檔案)。(圖8.1)
+1. 先從 file -> import -> mesh  (選擇要放入的檔案)。(圖6.1)
 
 
-2. 針對本體 shape -> 滑鼠右鍵 -> Edit -> Grouping/Merging ->divide selected shapes (為了要將物件分解細部圖形)。(圖8.2)
+2. 針對本體 shape -> 滑鼠右鍵 -> Edit -> Grouping/Merging ->divide selected shapes (為了要將物件分解細部圖形)。(圖6.2)
 
 
-3. 分解後細部的零件後，將它們重新命名並將這些零件進行主從連接。(圖8.3、圖8.4、圖8.5)
+3. 分解後細部的零件後，將它們重新命名並將這些零件進行主從連接。(圖6.3、圖6.4、圖6.5)
 
 
-4. Scene Oject Properties -> Adiust color -> Ambient/diffuse component (將每個人偶調色，分成黑與紅兩方)。(圖8.6、圖8.7)
+4. Scene Oject Properties -> Adiust color -> Ambient/diffuse component (將每個人偶調色，分成黑與紅兩方)。(圖6.6、圖6.7)
 
 
-5. for foosball : Scene Oject Properties -> show dynamic properties dialog -> check Body is respondable (要求足球場架能有反應)。(圖8.8)
+5. for foosball : Scene Oject Properties -> show dynamic properties dialog -> check Body is respondable (要求足球場架能有反應)。(圖6.8)
 
 
-6. for all joint : Scene Oject Properties -> show dynamic properties dialog -> check Motor enabled  and Control loop enabled (要求所有的旋轉軸馬達以及控制循環啟用)。(圖8.9)
+6. for all joint : Scene Oject Properties -> show dynamic properties dialog -> check Motor enabled  and Control loop enabled (要求所有的旋轉軸馬達以及控制循環啟用)。(圖6.9)
 
 
-7. for all bearing : Scene Oject Properties -> show dynamic properties dialog -> check Body is dynamic (要求所有的軸承物件要進行做動)。(圖8.10)
+7. for all bearing : Scene Oject Properties -> show dynamic properties dialog -> check Body is dynamic (要求所有的軸承物件要進行做動)。(圖6.10)
 
 
-8. for all slider : Scene Oject Properties -> show dynamic properties dialog -> check Motor enabled  and Control loop enabled (要求所有的平移軸馬達以及控制循環啟用)。(圖8.11)
+8. for all slider : Scene Oject Properties -> show dynamic properties dialog -> check Motor enabled  and Control loop enabled (要求所有的平移軸馬達以及控制循環啟用)。(圖6.11)
 
 
-9. for all pole : Scene Oject Properties -> show dynamic properties dialog -> check Body is dynamic (要求所有的桿子物件要進行做動)。(圖8.12)
+9. for all pole : Scene Oject Properties -> show dynamic properties dialog -> check Body is dynamic (要求所有的桿子物件要進行做動)。(圖6.12)
 
 
-10. for people : Scene Oject Properties -> show dynamic properties dialog -> check Body is respondable (要求人偶能有反應)。(圖8.13)
+10. for people : Scene Oject Properties -> show dynamic properties dialog -> check Body is respondable (要求人偶能有反應)。(圖6.13)
 
 
-11. 針對人對電腦及電腦對電腦的旋轉軸及平移軸須將 Control loop 關閉才可做動。(圖8.14)
+11. 針對人對電腦及電腦對電腦的旋轉軸及平移軸須將 Control loop 關閉才可做動。(圖6.14)
 
 
 
