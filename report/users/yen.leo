@@ -115,7 +115,7 @@ chapter_list = " ".join("./paragraph/" + i for i in [
 "vrep_foosball_design_and_simulation.md",
 "vrep_system_function_display.md",
 "divide_the_work.md",
-"completion.md",
+#"completion.md",
 #"computer_network.md", 
 #"computer_programming.md", 
 #"computer_aided_design.md", 
