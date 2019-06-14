@@ -453,6 +453,12 @@ make.start()
 * 整理執行規劃
 * 進行送球機構模擬
 
+[report.pdf](https://github.com/mdecadp2018/site-40623201/blob/gh-pages/report/pdf/report.pdf)
+
+[送球機構操作步驟1影片](https://youtu.be/3Xnt8M5fBpY)
+
+[送球機構操作步驟2影片](https://youtu.be/-dJ1Z-EaiFA)
+
 
 </t>
 <t tx="leo.20181105080551.1">&lt;section data-markdown&gt;
@@ -466,7 +472,8 @@ make.start()
 </t>
 <t tx="leo.20181105080551.2"># Week17 
 
-* 期末報告
+* 期末個人專案口頭簡報
+
 </t>
 </tnodes>
 </leo_file>
